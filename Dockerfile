@@ -1,4 +1,4 @@
-FROM docker pull gocd/gocd-agent:16.2.1
+FROM gocd/gocd-agent:16.2.1
 MAINTAINER YunLong <yunl.zheng@gmail.com>
 
 WORKDIR /tmp
